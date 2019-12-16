@@ -1,0 +1,15 @@
+
+
+.TwoSided {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+
+}
+
+.Quotes {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
