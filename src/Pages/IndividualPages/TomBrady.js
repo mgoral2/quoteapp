@@ -17,7 +17,7 @@ var quotes = {
   quote2: "You need to think outside the box.  You need to think differently if you want to sustain what, for me, is my peak performance: the very best that I can achieve as an athlete every day.",
   quote3: "I firmly believe that sleep and recovery are critical aspects of an effective and holistic training program.",
   quote4: "When you're one of the leaders of the team, there are no days off.",
-  quote5: "I play a complicated position in an intensely team-oriented game.",
+  quote5: "I could talk food all day.  I love good food.",
   quote6: "Mentally, the only players who survive in the pros are the ones able to manage all their responsibilities.  Everybody struggles in different ways.",
 
 }
